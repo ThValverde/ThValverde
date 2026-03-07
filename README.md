@@ -50,6 +50,9 @@ Research topics include:
 - GitKraken
 - GitHub
 - Azure DevOps
+
+**Research Tools**
+- LaTex
 - QualCoder
 - Gephi
 
